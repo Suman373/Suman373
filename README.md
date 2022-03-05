@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suman Roy</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img src="https://media0.giphy.com/media/12R2bKfxceemNq/200.gif" align="right" alt="infinity and beyond" width="400">
+<img src="https://media0.giphy.com/media/12R2bKfxceemNq/200.gif" align="right" alt="infinity and beyond" width="200">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suman373" alt="suman373" /></a> </p>
 
