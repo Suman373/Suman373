@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Roy</h1>
-<h3 align="center">Junior level front-end web dev</h3>
+<h3 align="center">Beginner front-end dev</h3>
 <img src="https://media0.giphy.com/media/Rm3cJx7OmvFWld8bM0/200w.webp?cid=ecf05e47eggmx3jlox365kdtx7tcm6o8wknfpmvqp3y56mho&rid=200w.webp&ct=g" align="right" alt="pattern moving gif" height="300" width="350">
 
 
