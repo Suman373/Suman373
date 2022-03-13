@@ -1,18 +1,21 @@
+<img src="https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/6096075812241408/image/download/6443342641496064" align="center" width="100%" height="350" alt="prog.lang"> 
 <h1 align="center">Hi 👋, I'm Suman Roy</h1>
 <h3 align="center">Beginner front-end dev</h3>
-<img src="https://media0.giphy.com/media/Rm3cJx7OmvFWld8bM0/200w.webp?cid=ecf05e47eggmx3jlox365kdtx7tcm6o8wknfpmvqp3y56mho&rid=200w.webp&ct=g" align="right" alt="pattern moving gif" height="300" width="350">
+<img src="https://previews.agefotostock.com/previewimage/medibigoff/28eaaad085310d17573cf916fa8995e6/esy-025689283.jpg" align="right" alt="pro" height="300" width="365">
 
 
 
-- 🌱 I’m currently learning **Javascript,Jquery**
+- 🌱 I’m currently **learning** **Javascript,Jquery**
 
-- 👯 I’m looking to collaborate on **any open source project**
+- ⚡ I need **help** with **Cloud tech, Git ,Github ,Open source contribution**  
 
-- 💬 Ask me about **HTML5,CSS3**
+- 👯 I’m looking to **collaborate** on **any beginner friendly open source project**
 
-- 📫 How to reach me **iamsuman898@gmail.com**
+- 💬 Ask me about **anything! Always happy to help!**
 
-- ⚡ Fun fact **Power naps are beneficial**
+- 📫 Here's my email **iamsuman898@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
