@@ -1,6 +1,6 @@
 <img src="https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1200/api/page/6096075812241408/image/download/6443342641496064" align="center" width="100%" height="350" alt="prog.lang"> 
 <h1 align="center">Hi 👋, I'm Suman Roy</h1>
-<h3 align="center">Beginner front-end dev</h3>
+<h3 align="center">Beginner Front-end Dev</h3>
 <img src="https://previews.agefotostock.com/previewimage/medibigoff/28eaaad085310d17573cf916fa8995e6/esy-025689283.jpg" align="right" alt="pro" height="300" width="365">
 
 
