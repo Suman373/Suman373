@@ -1,4 +1,4 @@
-<img src="https://github.com/Suman373/Suman373/blob/main/20220403_123433_0000.png" align="center" width="100%" height="200" alt="non-human-visible.png"> 
+<img src="https://github.com/Suman373/Suman373/blob/main/20220403_123433_0000.png" align="center" width="100%" height="335" alt="non-human-visible.png"> 
 <h1 align="center">Hi &#127773;, I'm Suman Roy</h1>
 <h4 align="center">I am a CSE undergrad &#127891;, learning to code &#x1f4bb; , like to develop &#x1f680; and create &#9989;!</h4>
 <h6 align="center">Knowledge comes from learning. Experience comes from living. A life without problems is like a school without lessons.&#10024;</h6>
