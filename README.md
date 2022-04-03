@@ -34,3 +34,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suman373" alt="suman373"></a> </p>
 
+*Profile Hits*: 
+[![HitCount](https://hits.dwyl.com/Suman373/Suman373.svg?style=flat-square)](http://hits.dwyl.com/Suman373/Suman373)
+
