@@ -2,7 +2,7 @@
 <h1 align="center">Hi &#127773;, I'm Suman Roy</h1>
 <h4 align="center">I am a CSE undergrad &#127891;, learning to code &#x1f4bb; , like to develop &#x1f680; and create &#9989;!</h4>
 <h6 align="center">Knowledge comes from learning. Experience comes from living. A life without problems is like a school without lessons.&#10024;</h6>
-<img src="https://previews.agefotostock.com/previewimage/medibigoff/28eaaad085310d17573cf916fa8995e6/esy-025689283.jpg" align="right" alt="pro" height="300" width="365">
+<img src="https://media2.giphy.com/media/40cxBsgqqwb65M5ivp/200.gif" align="right" alt="pro" height="300" width="365">
 
 
 
