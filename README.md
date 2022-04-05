@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to **collaborate** on **any beginner friendly open source project**
 
-- 💬 Ask me about *anyhing*! Always happy to help!**
+- 💬 Ask me about *anyhing*! **Always happy to help!**
 
 - 📫 Here's my email **iamsuman898@gmail.com**.You can send me any query or message!
 
