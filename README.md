@@ -32,7 +32,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman373&" alt="suman373" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suman373" alt="suman373"></a> </p>
+<h4 align="left">Trophy Count:</h4>
+<img src="https://github-profile-trophy.vercel.app/?username=Suman373&theme=juicyfresh">
 
 *Profile Hits*: 
 [![HitCount](https://hits.dwyl.com/Suman373/Suman373.svg?style=flat-square)](http://hits.dwyl.com/Suman373/Suman373)
