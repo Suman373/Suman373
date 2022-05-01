@@ -46,7 +46,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Suman373&theme=juicyfresh">
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sumanroy369"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="suman373" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/sumanroy369" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="suman373" /></a></p><br><br>
 
 <br><br>
 [![HitCount](https://hits.dwyl.com/Suman373/Suman373.svg?style=flat-square)](http://hits.dwyl.com/Suman373/Suman373)
