@@ -5,7 +5,7 @@
 <p align="right"><img src="https://i.gifer.com/origin/be/befaac44f3f17c099afd6b356bcbb19a_w200.webp" align="right" height="200" width="200"></p>
 <br>
 
-- 🌱 I’m currently **learning** **Javascript**
+- 🌱 I’m currently **learning** **Jquery**
 
 - ⚡ I need **help** with **Javascript frameworks**  
 
