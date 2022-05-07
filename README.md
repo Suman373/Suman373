@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to **collaborate** on **any web project** 
 
-- &#11088; I'm open for **participating** in **Hackathons** and **attending Developers meet**
+- &#11088; I'm open for **participating** in **Hackathons on Open Innovation** 
 
 - 📫 Here's my email **iamsuman898@gmail.com**.You can send me any query or message!
 
