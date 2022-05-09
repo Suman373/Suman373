@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there! I'm Suman Roy</h1>
+<h1 align="center">Hi there! <p align="center"><img src=""></p>I'm Suman Roy</h1>
 <h4 align="center">I am a student majoring in Computer Science &#127891;, learning to code &#x1f4bb; , like to develop &#x1f680; and create &#9989;!</h4>
 <h6 align="center">"There is no glory in practice, but without practice there is no glory" &#10024;</h6>
 <p align="right"><img src="https://i.gifer.com/origin/be/befaac44f3f17c099afd6b356bcbb19a_w200.webp" align="right" height="200" width="200"></p>
