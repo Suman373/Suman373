@@ -1,10 +1,13 @@
 
-<h1 align="center">Hi there! <p align="center"><img src=""></p>I'm Suman Roy</h1>
+<h1 align="center">Hi there! I'm Suman Roy</h1>
+<p align='center'><img src="https://i.gifer.com/origin/be/befaac44f3f17c099afd6b356bcbb19a_w200.webp" height="10" width="1000"></p>
 <h4 align="center">I am a student majoring in Computer Science &#127891;, learning to code &#x1f4bb; , like to develop &#x1f680; and create &#9989;!</h4>
-<h6 align="center">"There is no glory in practice, but without practice there is no glory" &#10024;</h6>
-<p align="right"><img src="https://i.gifer.com/origin/be/befaac44f3f17c099afd6b356bcbb19a_w200.webp" align="right" height="200" width="200"></p>
-<br>
+<h5 align="center">
+  "There is no glory in practice, but without practice there is no glory" &#10024;
+</h5>
+<p align="right"><img src="https://user-images.githubusercontent.com/95040233/167467039-eed826af-738d-4391-a79a-8a818420b0b9.gif" align="right" height="220" width="200"></p>
 
+***
 
 - 🌱 I’m currently **learning**  **Jquery**
 
@@ -14,7 +17,7 @@
 
 - &#11088; I'm open for **participating** in **Hackathons on Open Innovation** 
 
-- 📫 Here's my email **iamsuman898@gmail.com**.You can send me any query or message!
+- 📫 Here's my `email` **iamsuman898@gmail.com**.You can send me any query or message!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman373&label=Profile%20views&color=0e75b6&style=flat" alt="suman373" /> </p>
 
