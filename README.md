@@ -18,7 +18,7 @@
 
 - &#11088; I'm open for **participating** in **Hackathons on Open Innovation** 
 
-- 📫 Here's my `email` **iamsuman898@gmail.com**.You can send me any query or message!
+- 📫 Contact me by sending an <a href="mailto:iamsuman898@gmail.com">email</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman373&label=Profile%20views&color=0e75b6&style=flat" alt="suman373" /> </p>
 
@@ -32,7 +32,7 @@
 <a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img width ='33px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Social media handles:</h2>
 <p align="left">
 <a href="https://codepen.io/suman373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/suman373" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumanroy369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman roy" height="30" width="40" /></a>
