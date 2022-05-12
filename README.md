@@ -18,7 +18,7 @@
 
 - &#11088; I'm open for **participating** in **Hackathons on Open Innovation** 
 
-- 📫 Contact me by sending an <a href="mailto:iamsuman898@gmail.com">email</a>
+- 📫 Contact me by sending an <a href="mailto:iamsuman898@gmail.com?">email</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman373&label=Profile%20views&color=0e75b6&style=flat" alt="suman373" /> </p>
 
