@@ -42,11 +42,13 @@
 
 <br>
 
-![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=dracula)
+![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=synthwave)
 
-[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=suman373&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=suman373&layout=compact&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman373&" alt="suman373" /></p>
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suman373&repo=JSgame&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suman373&theme=monokai" alt="suman373" /></p>
 
 <h2 align="left">Trophy Count:</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=Suman373&theme=juicyfresh">
