@@ -7,8 +7,7 @@
 </h4>
 <p align='center'><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"><span> </span><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"><span> </span><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"></p>
 <p align="right"><img src="https://user-images.githubusercontent.com/95040233/167467039-eed826af-738d-4391-a79a-8a818420b0b9.gif" align="right" height="220" width="200"></p>
-
-***
+<br>
 
 - 🌱 I’m currently **learning**  **Jquery**
 
@@ -19,7 +18,7 @@
 - &#11088; I'm open for **participating** in **Hackathons on Open Innovation** 
 
 - 📫 Contact me by sending an <a href="mailto:iamsuman898@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" height="20"></a>
-
+- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman373&label=Profile%20views&color=0e75b6&style=flat" alt="suman373" /> </p>
 
 <h2> Technologies and Languages I use <img src ="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
