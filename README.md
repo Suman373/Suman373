@@ -1,19 +1,22 @@
 
 <h1 align="center">Hi there! &#9996; I'm Suman Roy</h1>
 <p align='center'><img src="https://www.newrafael.com/wp-content/uploads/2013/03/rotating-gradient-01.gif" height="3" width="1000"></p>
-<h3 align="center">I am a student majoring in Computer Science &#127891;, learning to code &#x1f4bb; , like to develop &#x1f680; and create &#9989;!</h3>
+<h3 align="center">I am a student majoring in Computer Science&#127891;, learning to code&#x1f4bb;, like to develop&#x1f680;and create products&#9989;!</h3>
 <h4 align="center">
   "There is no glory in practice, but without practice there is no glory" &#10024;
 </h4>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=4000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2;I+am+a+developer)](https://git.io/typing-svg)
+
 <p align='center'><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"><span> </span><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"><span> </span><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"></p>
 
-- 🌱 I’m currently **learning**  **Jquery**
+- 🌱 I’m currently **learning** & **exploring** frameworks
 
-- ⚡ I need **help** with **Javascript frameworks**  
+- ⚡ I am looking for **mentors** who can **guide** me!  
 
 - 👯 I’m looking to **collaborate** on **any web project** 
 
-- &#11088; I'm open for **participating** in **Hackathons on Open Innovation** 
+- &#11088; I'm open for **participating** in **Hackathons** 
 
 - 📫 Contact me by sending a <a href="mailto:iamsuman898@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" height="20"></a>
 
