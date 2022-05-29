@@ -6,7 +6,7 @@
   "There is no glory in practice, but without practice there is no glory" &#10024;
 </h4>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=4000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2;I+am+a+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=4000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2.0;I+am+a+developer)](https://git.io/typing-svg)
 
 <p align='center'><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"><span> </span><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"><span> </span><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"></p>
 
