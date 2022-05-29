@@ -35,7 +35,6 @@ https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&log
 <a href="https://fb.com/Suman Roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suman roy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/suman_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suman_26" height="30" width="40" /></a>
 </p>
-
 <br>
 
   ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=synthwave)
