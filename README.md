@@ -18,7 +18,7 @@
 
 - &#11088; I'm open for **participating** in **Hackathons** 
 
-- 📫 Contact me by sending a <a href="mailto:iamsuman898@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" height="20"></a>
+- 📫 Contact me by sending an email here <a href="mailto:iamsuman898@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" height="20"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman373&label=Profile%20views&color=0e75b6&style=flat" alt="suman373" /> </p>
 
