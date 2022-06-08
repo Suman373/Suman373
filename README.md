@@ -6,7 +6,7 @@
   "There is no glory in practice, but without practice there is no glory" &#10024;
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=4000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2.0;I+am+a+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=4000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2.0;I+am+a+wannabe+developer)](https://git.io/typing-svg)
 
 <p align='center'><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"><span> </span><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"><span> </span><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"></p>
 
@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to **collaborate** on **any web project** 
 
-- &#11088; I'm open for **static web development freelancing**
+<!-- - &#11088; I'm open for **static web development freelancing** -->
 
 - 📫 Contact me by sending an email here <a href="mailto:iamsuman898@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" height="20"></a>
 
