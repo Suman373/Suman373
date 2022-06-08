@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently **learning** & **exploring** frameworks
 
-- ⚡ I am looking for **mentors** who can **guide** me!  
+- ⚡ I am looking for **partners** for **hackathons** !  
 
 - 👯 I’m looking to **collaborate** on **any web project** 
 
-- &#11088; I'm open for **participating** in **Hackathons** 
+- &#11088; I'm open for **static web development freelancing**
 
 - 📫 Contact me by sending an email here <a href="mailto:iamsuman898@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" height="20"></a>
 
