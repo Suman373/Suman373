@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there! &#9996; I'm Suman Roy</h1>
 <p align='center'><img src="https://www.newrafael.com/wp-content/uploads/2013/03/rotating-gradient-01.gif" height="3" width="1000"></p>
-<h3 align="center">I am a student majoring in Computer Science&#127891;, learning to code&#x1f4bb;, like to develop&#x1f680;and create products&#9989;!</h3>
+<h3 align="center">I am a student majoring in Computer Science&#127891;, learning to code&#x1f4bb; & like development &#x1f680;  </h3>
 <h3 align="center">
   "There is no glory in practice, but without practice there is no glory" &#10024;
 </h3>
