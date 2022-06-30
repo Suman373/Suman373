@@ -44,7 +44,7 @@
 <p><a href="https://www.buymeacoffee.com/sumanroy369" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="suman373" /></a></p><br><br> -->
 
 <details>
-   <summary>See more</summary>
+   <summary>More stats</summary>
   
   ![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=suman373&layout=compact&langs_count=8&theme=synthwave)               
 
