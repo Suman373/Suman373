@@ -10,7 +10,7 @@
 
 <p align='center'><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"><span> </span><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"><span> </span><img src="https://thumbs.gfycat.com/AccurateRegularBunting-size_restricted.gif" height="5" width="100"></p>
 
-- 🌱 I’m currently **learning** & React
+- 🌱 I’m currently **learning** CMS
 
 - ⚡ I am looking for **partners** for **hackathons** !  
 
