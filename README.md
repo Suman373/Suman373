@@ -38,13 +38,11 @@
 </p>
 <br>
 
-
-  ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=synthwave)
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sumanroy369" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="suman373" /></a></p><br><br> -->
-
 <details>
+  <br>
    <summary>More stats</summary>
+   
+   ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=synthwave)
   
   ![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=suman373&layout=compact&langs_count=8&theme=synthwave)               
 
