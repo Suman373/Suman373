@@ -41,7 +41,7 @@
    
    ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=synthwave)
   
-  ![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=suman373&layout=compact&langs_count=8&theme=synthwave)               
+  ![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=suman373&layout=compact&langs_count=10&theme=synthwave)               
 
    <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=suman373&repo=JSgame&theme=synthwave)](https://github.com/anuraghazra/github-readme-   stats) -->
 
