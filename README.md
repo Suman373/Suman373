@@ -5,7 +5,7 @@
   "There is no glory in practice, but without practice there is no glory" &#10024;
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=4000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2.0;I+am+a+wannabe+developer)](https://git.io/typing-svg)
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=4000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2.0;I+am+a+wannabe+developer"/></p>
 
 <p align="center"> -🌱 I’m currently <b>learning</b> DSA </p>
 
