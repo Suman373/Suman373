@@ -7,11 +7,11 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=4000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2.0;I+am+a+wannabe+developer"/></p>
 
-<p align="center"> -🌱 I’m currently <b>learning</b> DSA </p>
+<p align="center"> 🌱 I’m currently <b>learning</b> DSA </p>
 
-<p align="center"> - ⚡ I am looking for <b>partners</b> for <b>hackathons</b> !</p>
+<p align="center"> ⚡ I am looking for <b>partners</b> for <b>hackathons</b> !</p>
 
-<p align="center"> - 👯 I’m looking to <b>collaborate</b> on <b>open source web project</b> </p>
+<p align="center"> 👯 I’m looking to <b>collaborate</b> on <b>open source web project</b> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suman373&label=Profile%20views&color=0e75b6&style=flat" alt="suman373-prof-hits" /> </p>
 <h3 align="center"> Technologies/Languages</h3>
