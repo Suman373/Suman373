@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi there! &#9996; I'm Suman Roy</h1>
+<p align="center"><img src="https://user-images.githubusercontent.com/95040233/179579515-48277d11-be25-472b-9596-072485ada053.png" height="400" width="700"/></p>
+<!-- <h1 align="center">Hi there! &#9996; I'm Suman Roy</h1> -->
 <h3 align="center">I am a student majoring in Computer Science&#127891;, learning to code&#x1f4bb; & like development &#x1f680;  </h3>
 <h3 align="center">
   "There is no glory in practice, but without practice there is no glory" &#10024;
