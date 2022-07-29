@@ -1,7 +1,5 @@
-<!-- <p align="center"><img src="https://user-images.githubusercontent.com/95040233/179579515-48277d11-be25-472b-9596-072485ada053.png" height="400" width="700"/></p> -->
-<!-- ![Image](https://user-images.githubusercontent.com/95040233/179579515-48277d11-be25-472b-9596-072485ada053.png)-->
-<!-- <h1 align="center">Hi there! &#9996; I'm Suman Roy</h1> -->
-<h3 align="center">I am a student majoring in Computer Science&#127891;, learning to code&#x1f4bb; & like development &#x1f680;  </h3>
+ <p align="center"><img src="https://user-images.githubusercontent.com/95040233/179579515-48277d11-be25-472b-9596-072485ada053.png" height="400" width="700"/></p> 
+<h4 align="left">Hello 👋 ! Welcome to my profile. I am Suman Roy, pursuing Btech CSE, yes, you are right! Another one! Now let's get to have a sneak peek about my professional front. I am interested to be involved with the tech industry i.e., looking forward to job in such field or remote works etc. After Covid, I started liking Youtube tutor's playlists and tutorials who are providing such quality contents for both changing the life of students in India and creating an audience, personal branding etc, which is fair enough ❤ .I am a self-taught front-end web developer 📈.I am also keen to learn about back-end development. ✅</h4>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=4000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2.0;I+am+a+wannabe+developer"/></p>
 
  🌱 I’m currently <b>learning</b> DSA </p>
@@ -26,7 +24,7 @@
 <a href="https://fb.com/Suman Roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suman roy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/suman_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suman_26" height="30" width="40" /></a>
 </p>
-<details align="center">
+<details align="left">
    <summary><h3>More stats</h3></summary>
    
    ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=synthwave) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=suman373&theme=monokai)
