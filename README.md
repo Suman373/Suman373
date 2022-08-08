@@ -1,5 +1,5 @@
- <p align="center"><img src="https://user-images.githubusercontent.com/95040233/179579515-48277d11-be25-472b-9596-072485ada053.png" height="400" width="700"/></p> 
-<h4 align="left">Hello 👋 ! Welcome to my profile. I am Suman Roy, pursuing Btech CSE, yes, you are right! Another one! I am interested to be involved with the tech industry i.e., looking forward to job in such field or remote works etc. I am a self-taught front-end web developer 📈 , inclined towards MERN and REFI ✅</h4>
+ <p align="center"><img src="https://user-images.githubusercontent.com/95040233/179579515-48277d11-be25-472b-9596-072485ada053.png" height="400"/></p> 
+<h3 align="left">Hello 👋 ! Welcome to my profile. I am Suman Roy, pursuing Btech CSE, yes, you are right! Another one! I am interested to be involved with the tech industry i.e., looking forward to job in such field or remote works etc. I am a self-taught front-end web developer 📈 , inclined towards MERN and REFI ✅</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=4000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2.0;I+am+a+wannabe+developer"/></p>
 
  🌱 I’m currently <b>learning</b> DSA </p>
