@@ -1,10 +1,10 @@
  <p align="center"><img src="https://user-images.githubusercontent.com/95040233/179579515-48277d11-be25-472b-9596-072485ada053.png" height="400"/></p> 
-<h3 align="left">Hello 👋 ! Welcome to my profile. I am Suman Roy, pursuing Btech CSE, yes, you are right! Another one! I am interested to be involved with the tech industry i.e., looking forward to job in such field or remote works etc. I am a self-taught front-end web developer 📈 , inclined towards MERN and REFI ✅</h3>
+<h3 align="left">Hello 👋 ! Welcome to my profile. I am a student, pursuing my Btech in CSE.I have keen interest in development of web applications and softwares. Thus, in order to achieve such goals, I am learning and improving my skills. It is quite overwhelming thought am getting there.Currently, I can call myself a self-taught front-end web developer, inclined towards MERN and REFI stacks.</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=4000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2.0;I+am+a+wannabe+developer"/></p>
 
- 🌱 I’m currently <b>learning</b> DSA </p>
-⚡ I am looking for <b>partners</b> for <b>hackathons</b> !</p>
- 👯 I’m looking to <b>collaborate</b> on <b>open source web project</b></p>
+ <h4>🌱 I’m currently learning DSA and more about web technologies and principles. </h4>
+<h4>👯 I am looking web developers as my <b>hackathon partners. </h4>
+<h4> ⚡ !False is funny, because it is true!</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suman373&label=Profile%20views&color=0e75b6&style=flat" alt="suman373-prof-hits" /> </p>
 <h3 align="left"> Technologies/Languages</h3>
