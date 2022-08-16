@@ -21,8 +21,6 @@
 <p align="left">
 <a href="https://codepen.io/suman373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/suman373" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sumanroy369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman roy" height="30" width="40" /></a>
-<a href="https://fb.com/Suman Roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="suman roy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/suman_26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suman_26" height="30" width="40" /></a>
 </p>
 <details align="left">
    <summary><h3>More stats ⚙</h3></summary>
