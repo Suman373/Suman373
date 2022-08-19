@@ -1,6 +1,6 @@
  <p align="center"><img src="https://user-images.githubusercontent.com/95040233/184645869-db1946c3-d6c7-40b4-9beb-6c3f7edfe99e.png" /></p> 
 <h3 align="center">Hello 👋 ! Welcome to my profile.I am a student who has keen interest in development of web applications and softwares (plans on exploring more domains like blockchain, AR/XR, etc). Thus, I am always learning and improving my skills </b> revolving around tech. Feel free to connect 💬</h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=4000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2.0;I+am+a+wannabe+developer"/></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=6000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2.0;I+am+a+wannabe+developer"/></p>
 
  <h4>🌱 I’m currently learning DSA and more about web technologies and principles. </h4>
 <h4>👯 I am looking for web developers as my <b>hackathon partners. </h4>
