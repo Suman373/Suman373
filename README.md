@@ -13,27 +13,26 @@
 <h3 align="left">IDE 💻</h3>
  <p align="left"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> </p>
  
-<h3 align="left">Helpful Platforms💡</h3>
-<p align="left"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/> <img  src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"> <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"> <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></p>
+ ## Recent Articles and BLOGS 📄🖊
+ - <a href="https://dev.to/suman373_30/a-simple-card-hover-animation-for-beginners-5322" target="_blank"> Card hover animation <a>
 
 <!-- Social media-->
-<h3 align="left">Connect with me at 👇</h3>
+<h3 align="left">Connect with me ⚡</h3>
 <p align="left">
 <a href="https://codepen.io/suman373" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
-<a href="https://linkedin.com/in/sumanroy369" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://linkedin.com/in/sumanroy369" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://github.com/Suman373" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a> <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white"/></a>
-<a> <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+<a href="" target="_blank"> <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white"/></a>
 </p>
 <details align="left">
-   <summary><h3>More stats ⚙</h3></summary>
+   <summary><h3>More stats 🔎</h3></summary>
    
    ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=synthwave) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=suman373&theme=monokai)
    ![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=suman373&layout=compact&langs_count=10&theme=synthwave)
+
  </details>
  <h3> Trophy Count 🏆 </h3><img align="center" src="https://github-profile-trophy.vercel.app/?username=Suman373&theme=juicyfresh">
  
- ## Recent Articles and BLOGS 📄🖊
- - <a href="https://dev.to/suman373_30/a-simple-card-hover-animation-for-beginners-5322" target="_blank"> Card hover animation <a>
+ 
 
 
