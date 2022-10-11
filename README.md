@@ -15,6 +15,7 @@
  
  ## Recent Articles and BLOGS 📄🖊
  - <a href="https://dev.to/suman373_30/a-simple-card-hover-animation-for-beginners-5322" target="_blank"> Card hover animation <a>
+ - <a href="https://dev.to/suman373_30/fetch-vs-axios-in-javascript-4oj0" target="_blank"> Fetch vs Axios in Javascript </a>
 
 <!-- Social media-->
 <h3 align="left">Connect with me ⚡</h3>
