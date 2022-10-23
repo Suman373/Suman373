@@ -1,4 +1,6 @@
- ![png_20220906_120237_0000](https://user-images.githubusercontent.com/95040233/189095305-74a033b7-07ed-4af3-ab7f-399cc5afd091.png)
+ <!-- ![png_20220906_120237_0000](https://user-images.githubusercontent.com/95040233/189095305-74a033b7-07ed-4af3-ab7f-399cc5afd091.png)-->
+ ![Github banner](https://user-images.githubusercontent.com/95040233/197403743-003761ad-04db-4099-bea3-320c4d0524d7.png)
+
 <p align="center">Hello 👋 ! Welcome to my profile.I am a student who has keen interest in development of web applications and softwares (plans on exploring more domains like blockchain, AR/XR, etc). Thus, I am always learning and improving my skills </b> revolving around tech. Feel free to connect 💬</p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=6000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+learning+web2.0;I+am+a+wannabe+developer"/></p>
 
