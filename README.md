@@ -29,7 +29,7 @@
 <a href="https://github.com/Suman373" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <details align="left">
-   <summary><h3>More stats 🔎</h3></summary>
+   <summary><h3>GitHub stats 🚀</h3></summary>
    
    ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=synthwave) ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=suman373&theme=monokai)
    ![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=suman373&layout=compact&langs_count=10&theme=synthwave)
