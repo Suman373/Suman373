@@ -2,7 +2,7 @@
  ![Github banner](https://user-images.githubusercontent.com/95040233/197403743-003761ad-04db-4099-bea3-320c4d0524d7.png)
 
 <h3 align="left">Hello 👋 ! Welcome to my profile.I am a sophomore who has keen interest in development of web applications and softwares.I am always learning and improving my skills </b> in and around tech. Apart from that I also like to attend in-person events such as devmeets, carnivals, fests, etc 😎</h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=6000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+a+web2.0+developer;I+am+pursuing+Btech+in+CSE;Follow+me+for+being+updated+about+some+awesome+projects"/></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=6000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+a+web2.0+developer;I+am+pursuing+Btech+in+CSE;I+am+currently+learning+to+solve+problems"/></p>
 
  <h4>🌱 I’m currently working on some full-stack projects.</h4>
  <h4>🚀 I’m also working as a full stack web dev intern at an IT consulting and services firm.</h4>
