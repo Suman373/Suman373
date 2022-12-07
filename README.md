@@ -5,7 +5,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=6000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+a+web2.0+developer;I+am+pursuing+Btech+in+CSE;I+am+currently+learning+to+solve+problems"/></p>
 
  <h4>🌱 I’m currently working on some full-stack projects.</h4>
- <h4>🚀 I’m also working as a full stack web dev intern at an IT consulting and services firm.</h4>
+ <!-- <h4>🚀 I’m also working as a full stack web dev intern at an IT consulting and services firm.</h4> -->
 <h4>👯 I am looking for web developers as my <b>hackathon partners. </h4>
 <h4> ⚡ Build stuffs on your own. It helps to learn more 🚀</h4>
 
