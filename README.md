@@ -17,6 +17,7 @@
  <p align="left"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> </p>
  
  ## My BLOGS 📄🖊
+ - <a href="https://dev.to/suman373_30/what-are-the-benefits-of-using-form-tag-in-html-1m26" target="_blank"> Why use form tag in html5?</a>
  - <a href="https://dev.to/suman373_30/deploy-your-static-react-app-under-5mins-4oij" target="_blank"> Deploy react app under 5 mins</a>
  - <a href="https://dev.to/suman373_30/fetch-vs-axios-in-javascript-4oj0" target="_blank"> Fetch vs Axios in Javascript </a>
  - <a href="https://dev.to/suman373_30/a-simple-card-hover-animation-for-beginners-5322" target="_blank"> A simple card overlay animation </a>
