@@ -29,9 +29,8 @@
 <details align="left">
    <summary><h3>GitHub stats 🚀</h3></summary>
    
-   ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=synthwave) 
- <!-- ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=suman373&theme=monokai) -->
-   ![Top Languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=suman373&layout=compact&langs_count=10&theme=synthwave)
+   ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=merko) </br>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suman373&layout=compact&theme=merko&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
  </details>
  <h3> Trophy Count 🏆 </h3><img align="center" src="https://github-profile-trophy.vercel.app/?username=Suman373&theme=juicyfresh">
