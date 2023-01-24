@@ -10,16 +10,24 @@
 <h3 align="left"> Languages/Technologies/Tools I use 🛠</h3>
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
-<h3 align="left">IDE I use 💻</h3>
- <p align="left"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"> </p>
+<h3>Work Experience 🛠💻</h3>
+
+| Position/Role 👨‍💻 |   Company/Org 🏢 |
+----------------|-----------------------
+| Api fellow    |    Keploy (Jan 2023 - Present)   |
+| Full stack developer intern |  Symstech IT consultancy and Services (Oct - Dec 2022) |
+| Open Source Mentee | GDSC KGEC Summer of Code'22 (Jul - Aug 2022) |
+
+
+ <h3>My blogs and articles 📄🖊</h3>
  
- ## My BLOGS 📄🖊
- - <a href="https://dev.to/suman373_30/so-what-is-http--4kb4" target="_blank"> So what is http ? </a>
- - <a href="https://dev.to/suman373_30/controlled-form-in-react-js-2blg" target="_blank"> State controlled forms in React </a>
- - <a href="https://dev.to/suman373_30/what-are-the-benefits-of-using-form-tag-in-html-1m26" target="_blank"> Why use form tag in html5?</a>
+ - <a href="https://roy-blogs.hashnode.dev/from-react-in-web-to-react-in-mobile" target="_blank"> From React in web to React in mobile </a>
+ - <a href="https://dev.to/suman373_30/so-what-is-http--4kb4" target="_blank"> So what is http ?</a>
  - <a href="https://dev.to/suman373_30/deploy-your-static-react-app-under-5mins-4oij" target="_blank"> Deploy react app under 5 mins</a>
- - <a href="https://dev.to/suman373_30/fetch-vs-axios-in-javascript-4oj0" target="_blank"> Fetch vs Axios in Javascript </a>
- - <a href="https://dev.to/suman373_30/a-simple-card-hover-animation-for-beginners-5322" target="_blank"> A simple card overlay animation </a>
+ - <a href="https://dev.to/suman373_30/controlled-form-in-react-js-2blg" target="_blank"> State controlled forms in React </a>
+ - <a href="https://dev.to/suman373_30/fetch-vs-axios-in-javascript-4oj0" target="_blank"> Fetch vs Axios in Javascript </a> <br/>
+ More on
+ [Hashnode](https://roy-blogs.hashnode.dev) & [Dev](https://dev.to/suman373)
 
 <!-- Social media-->
 <h3 align="left">Connect with me at ⚡</h3>
@@ -33,9 +41,11 @@
    
    ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=merko) </br>
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suman373&layout=compact&theme=merko&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+   
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Suman373&theme=juicyfresh">
 
  </details>
- <h3> Trophy Count 🏆 </h3><img align="center" src="https://github-profile-trophy.vercel.app/?username=Suman373&theme=juicyfresh">
+ 
  
  
 
