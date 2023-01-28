@@ -1,7 +1,7 @@
  <!-- ![png_20220906_120237_0000](https://user-images.githubusercontent.com/95040233/189095305-74a033b7-07ed-4af3-ab7f-399cc5afd091.png)-->
  ![Github banner](https://user-images.githubusercontent.com/95040233/197403743-003761ad-04db-4099-bea3-320c4d0524d7.png)
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=6000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+a+web2.0+developer;I+am+pursuing+Btech+in+CSE;I+am+currently+learning+to+solve+problems"/></p>
+<!--<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=6000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+a+web2.0+developer;I+am+pursuing+Btech+in+CSE;I+am+currently+learning+to+solve+problems"/></p> -->
 
  <h4>🌱 I’m currently working on some full-stack projects.</h4>
 <h4>👯 I am looking for web developers as my <b>hackathon partners. </h4>
@@ -21,6 +21,7 @@
 
  <h3>My blogs and articles 📄🖊</h3>
  
+ - <a href="https://roy-blogs.hashnode.dev/theoretical-aspects-of-api" target ="_blank"> Theoretical aspects of API </a>
  - <a href="https://roy-blogs.hashnode.dev/from-react-in-web-to-react-in-mobile" target="_blank"> From React in web to React in mobile </a>
  - <a href="https://dev.to/suman373_30/so-what-is-http--4kb4" target="_blank"> So what is http ?</a>
  - <a href="https://dev.to/suman373_30/deploy-your-static-react-app-under-5mins-4oij" target="_blank"> Deploy react app under 5 mins</a>
