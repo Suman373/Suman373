@@ -3,8 +3,8 @@
 
 <!--<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=6000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+a+web2.0+developer;I+am+pursuing+Btech+in+CSE;I+am+currently+learning+to+solve+problems"/></p> -->
 
- <h4>🌱 I’m currently working on some full-stack projects.</h4>
-<h4>👯 I am looking for web developers as my <b>hackathon partners. </h4>
+<h4>🌱 I’m currently building full-stack projects.</h4>
+<h4>👯 I like to collaborate with other developers. </h4>
 <h4> ⚡ Building in public 🚀</h4>
 
 <h3 align="left"> Languages/Technologies/Tools I use 🛠</h3>
@@ -14,7 +14,7 @@
 
 | Position/Role 👨‍💻 |   Company/Org 🏢 |
 ----------------|-----------------------
-| Api fellow    |    Keploy (Jan 2023 - Feb 2023)   |
+| Api fellow    |    Keploy (Jan 2023 - Feb 2023)  |
 | Full stack developer intern |  Symstech IT consultancy and Services (Oct - Dec 2022) |
 | Open Source Mentee | GDSC KGEC Summer of Code'22 (Jul - Aug 2022) |
 
@@ -37,7 +37,7 @@
 <a href="https://www.linkedin.com/in/sumanroy369" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://github.com/Suman373" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-<details align="left">
+<!-- <details align="left">
    <summary><h3>GitHub stats 🚀</h3></summary>
    
    ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=merko) </br>
@@ -45,7 +45,7 @@
    
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Suman373&theme=juicyfresh">
 
- </details>
+ </details> -->
  
  
  
