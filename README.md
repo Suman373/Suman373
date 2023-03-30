@@ -14,6 +14,7 @@
 
 | Position/Role 👨‍💻 |   Company/Org 🏢 |
 ----------------|-----------------------
+| Freelance Front-end Developer | Markzin Business Services (Mar 2023)| 
 | Api fellow    |    Keploy (Jan 2023 - Feb 2023)  |
 | Full stack developer intern |  Symstech IT consultancy and Services (Oct - Dec 2022) |
 | Open Source Mentee | GDSC KGEC Summer of Code'22 (Jul - Aug 2022) |
