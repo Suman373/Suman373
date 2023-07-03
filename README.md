@@ -5,7 +5,7 @@
 
 <h4>🌱 I’m currently building full-stack projects.</h4>
 <h4>👯 I like to collaborate with other developers. </h4>
-<h4> ⚡ Building in public 🚀</h4>
+<h4>⚡ Let's connect and brainstorm ideas </h4>
 
 <h3 align="left"> Languages/Technologies/Tools I use 🛠</h3>
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -14,8 +14,9 @@
 
 | Position/Role 👨‍💻 |   Company/Org 🏢 |
 ----------------|-----------------------
+| Freelance Front-end Developer | NRFS Jun 2023 - present |
 | Freelance Front-end Developer | Markzin Business Services (Mar 2023)| 
-| Api fellow    |    Keploy (Jan 2023 - Feb 2023)  |
+| Keploy Fellow (API)  |   Keploy (Jan 2023 - Feb 2023)  |
 | Full stack developer intern |  Symstech IT consultancy and Services (Oct - Dec 2022) |
 | Open Source Mentee | GDSC KGEC Summer of Code'22 (Jul - Aug 2022) |
 
