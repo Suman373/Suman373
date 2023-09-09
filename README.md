@@ -14,7 +14,7 @@
 
 | Position/Role 👨‍💻 |   Company/Org 🏢 |
 ----------------|-----------------------
-| Freelance Front-end Developer | NRFS Jun 2023 - present |
+| Web Dev (Front-End) | NRFS (Jun 2023 - present) |
 | Freelance Front-end Developer | Markzin Business Services (Mar 2023)| 
 | Keploy Fellow (API)  |   Keploy (Jan 2023 - Feb 2023)  |
 | Full stack developer intern |  Symstech IT consultancy and Services (Oct - Dec 2022) |
