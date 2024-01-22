@@ -4,7 +4,7 @@
 <!--<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=30&duration=6000&color=9D38EE&background=7FFCFF00&center=true&height=69&lines=Welcome+to+my+github+profile!;I+am+a+web2.0+developer;I+am+pursuing+Btech+in+CSE;I+am+currently+learning+to+solve+problems"/></p> -->
 
 <h4>🌱 I’m currently building full-stack projects.</h4>
-<h4>👯 I like to collaborate with other developers. </h4>
+<h4>👯 I am looking for part-time/full time software (web) developer roles</h4>
 <h4>⚡ Let's connect and brainstorm ideas </h4>
 
 <h3 align="left"> Languages/Technologies/Tools I use 🛠</h3>
