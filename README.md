@@ -14,10 +14,10 @@
 
 | Position/Role 👨‍💻 |   Company/Org 🏢 |
 ----------------|-----------------------
-| Web Dev (Front-End) | NRFS (Jun 2023 - present) |
+| Full Stack Dev | Markzin Business Services (Jun 2023 - Nov 2023) |
 | Freelance Front-end Developer | Markzin Business Services (Mar 2023)| 
 | Keploy Fellow (API)  |   Keploy (Jan 2023 - Feb 2023)  |
-| Full stack developer intern |  Symstech IT consultancy and Services (Oct - Dec 2022) |
+| Full Stack Dev Intern |  Symstech IT consultancy and Services (Oct - Dec 2022) |
 | Open Source Mentee | GDSC KGEC Summer of Code'22 (Jul - Aug 2022) |
 
 
