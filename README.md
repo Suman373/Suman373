@@ -38,17 +38,6 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://suman-roy.vercel.app/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanroy369)
 
 
-
-</p>
-<!-- <details align="left">
-   <summary><h3>GitHub stats 🚀</h3></summary>
-   
-   ![Suman's GitHub stats](https://github-readme-stats.vercel.app/api?username=suman373&show_icons=true&theme=merko) </br>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suman373&layout=compact&theme=merko&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-   
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=Suman373&theme=juicyfresh">
-
- </details> -->
  
  
  
