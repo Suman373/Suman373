@@ -1,8 +1,8 @@
 
 # Hi, I'm Suman! 👋
 
-<h4>🌱 I’m currently learning mobile development</h4>
-<h4>👯 I am looking for Fullstack Developer / Backend Developer / SDE roles.</h4>
+<h4>🌱 I’m currently freelancing as a Fullstack dev</h4>
+<h4>👯 I am looking for remote Fullstack Developer / SDE roles.</h4>
 <h4>⚡ Let's connect and collaborate </h4>
 
 <h3 align="left"> Languages/Technologies/Tools I use 🛠</h3>
