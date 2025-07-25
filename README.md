@@ -12,6 +12,7 @@
 
 | Position/Role 👨‍💻                          | Company/Org 🏢                                                       | Timeline ⌛                |
 |----------------------------------------------|---------------------------------------------------------------------|----------------------------|
+| **Freelance Frontend Developer**    | AdeptScribes | **May 2025 - Present** |
 | **Software Development Intern**    | [Futureblink](https://futureblink.com/) | **Jan 2025 - Apr 2025** |
 | **Open Source Mentor**               | [IEEE IGDTUW](https://www.linkedin.com/company/ieee-igdtuw/) | **Nov 2024**     |
 | **Open Source Project Mentor**               | [Girlscript Summer of Code](https://www.linkedin.com/company/girlscriptsoc/) | **Oct 2024**     |
