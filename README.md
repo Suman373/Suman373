@@ -12,12 +12,12 @@
 
 | Position/Role 👨‍💻                          | Company/Org 🏢                                                       | Timeline ⌛                |
 |----------------------------------------------|---------------------------------------------------------------------|----------------------------|
-| **Freelance Frontend Developer**    | AdeptScribes | **May 2025 - Present** |
+| **Freelance Developer**    | AdeptScribes | **May 2025 - Present** |
 | **Software Development Intern**    | [Futureblink](https://futureblink.com/) | **Jan 2025 - Apr 2025** |
 | **Open Source Mentor**               | [IEEE IGDTUW](https://www.linkedin.com/company/ieee-igdtuw/) | **Nov 2024**     |
 | **Open Source Project Mentor**               | [Girlscript Summer of Code](https://www.linkedin.com/company/girlscriptsoc/) | **Oct 2024**     |
 | **Fullstack Development Intern**             | [Markzin Young Pvt Ltd](https://www.linkedin.com/company/markzin/) | **Aug 2023 - Mar 2024**    |
-| **Freelance Frontend Developer**             | [Markzin Young Pvt Ltd](https://www.linkedin.com/company/markzin/) | **Mar 2023**               |
+| **Freelance Developer**             | [Markzin Young Pvt Ltd](https://www.linkedin.com/company/markzin/) | **Mar 2023**               |
 | **Keploy API Fellow**                        | [Keploy](https://www.linkedin.com/company/keploy/)                 | **Jan 2023 - Feb 2023**    |
 | **Fullstack Development Intern**             | [Symstech IT Consultancy and Services](https://www.linkedin.com/company/symstech/) | **Oct 2022 - Dec 2022**|
 | **Open Source Mentee**                       | [GDSC KGEC Summer of Code'22](https://www.linkedin.com/company/dsckgec/) | **Jul 2022 - Aug 2022**     |
