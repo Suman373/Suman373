@@ -2,7 +2,7 @@
 # Hi, I'm Suman! 👋
 
 <h4>🌱 I’m currently freelancing as a Fullstack dev</h4>
-<h4>👯 I am looking for remote Fullstack Developer / SDE roles.</h4>
+<h4>👯 I am actively seeking opportunities as MERN Stack Developer / Software Developer / Web Developer</h4>
 <h4>⚡ Let's connect and collaborate </h4>
 
 <h3 align="left"> Languages/Technologies/Tools I use 🛠</h3>
@@ -12,7 +12,7 @@
 
 | Position/Role 👨‍💻                          | Company/Org 🏢                                                       | Timeline ⌛                |
 |----------------------------------------------|---------------------------------------------------------------------|----------------------------|
-| **Freelance Developer**    | AdeptScribes | **May 2025 - Present** |
+| **Freelance Developer**    | AdeptScribes | **May 2025 - Aug 2025** |
 | **Software Development Intern**    | [Futureblink](https://futureblink.com/) | **Jan 2025 - Apr 2025** |
 | **Open Source Mentor**               | [IEEE IGDTUW](https://www.linkedin.com/company/ieee-igdtuw/) | **Nov 2024**     |
 | **Open Source Project Mentor**               | [Girlscript Summer of Code](https://www.linkedin.com/company/girlscriptsoc/) | **Oct 2024**     |
@@ -28,7 +28,7 @@
 
  - <a href="https://dev.to/suman373_30/fetch-vs-axios-in-javascript-4oj0" target="_blank"> Fetch vs Axios in Javascript </a> <br/>
  - <a href="https://roy-blogs.hashnode.dev/theoretical-aspects-of-api" target ="_blank"> Theoretical aspects of API </a>
- - <a href="https://dev.to/suman373_30/so-what-is-http--4kb4" target="_blank"> So what is http ?</a>
+ - <a href="https://dev.to/suman373_30/so-what-is-http--4kb4" target="_blank"> Let's explore the basics of HTTP ?</a>
  - <a href="https://dev.to/suman373_30/deploy-your-static-react-app-under-5mins-4oij" target="_blank"> Deploy react app under 5 mins</a>
  - <a href="https://dev.to/suman373_30/controlled-form-in-react-js-2blg" target="_blank"> State controlled forms in React </a>
  More on
