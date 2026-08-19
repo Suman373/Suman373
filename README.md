@@ -1,9 +1,9 @@
 
 # Hi, I'm Suman! 👋
 
-<h4>🌱 I’m currently freelancing as a Fullstack dev</h4>
-<h4>👯 I am actively seeking opportunities as MERN Stack Developer / Software Developer / Web Developer</h4>
-<h4>⚡ Let's connect and collaborate </h4>
+<h4⭐ I’m currently working as a Software Developer</h4>
+<h4>🚀 Transitioning to AI-first Development</h4>
+<h4>🫱🏽‍🫲🏽 Let's connect and collaborate </h4>
 
 <h3 align="left"> Languages/Technologies/Tools I use 🛠</h3>
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/> 
@@ -12,6 +12,7 @@
 
 | Position/Role 👨‍💻                          | Company/Org 🏢                                                       | Timeline ⌛                |
 |----------------------------------------------|---------------------------------------------------------------------|----------------------------|
+| **Software Developer**    | Revize | **Dec 2025 - Present** |
 | **Freelance Developer**    | Freelance | **May 2025 - Present** |
 | **Software Development Intern**    | [Futureblink](https://futureblink.com/) | **Jan 2025 - Apr 2025** |
 | **Open Source Mentor**               | [IEEE IGDTUW](https://www.linkedin.com/company/ieee-igdtuw/) | **Nov 2024**     |
