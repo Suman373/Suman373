@@ -1,7 +1,7 @@
 
 # Hi, I'm Suman! 👋
 
-<h4⭐ I’m currently working as a Software Developer</h4>
+<h4>⭐ I’m currently working as a Software Developer</h4>
 <h4>🚀 Native AI Development </h4>
 <h4>🫱🏽‍🫲🏽 Let's connect and collaborate </h4>
 
