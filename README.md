@@ -2,7 +2,7 @@
 # Hi, I'm Suman! 👋
 
 <h4⭐ I’m currently working as a Software Developer</h4>
-<h4>🚀 Transitioning to AI-first Development</h4>
+<h4>🚀 Native AI Development </h4>
 <h4>🫱🏽‍🫲🏽 Let's connect and collaborate </h4>
 
 <h3 align="left"> Languages/Technologies/Tools I use 🛠</h3>
@@ -14,14 +14,14 @@
 |----------------------------------------------|---------------------------------------------------------------------|----------------------------|
 | **Software Developer**    | Revize | **Dec 2025 - Present** |
 | **Freelance Developer**    | Freelance | **May 2025 - Present** |
-| **Software Development Intern**    | [Futureblink](https://futureblink.com/) | **Jan 2025 - Apr 2025** |
-| **Open Source Mentor**               | [IEEE IGDTUW](https://www.linkedin.com/company/ieee-igdtuw/) | **Nov 2024**     |
-| **Open Source Project Mentor**               | [Girlscript Summer of Code](https://www.linkedin.com/company/girlscriptsoc/) | **Oct 2024**     |
-| **Fullstack Development Intern**             | [Markzin Young Pvt Ltd](https://www.linkedin.com/company/markzin/) | **Aug 2023 - Mar 2024**    |
-| **Freelance Developer**             | [Markzin Young Pvt Ltd](https://www.linkedin.com/company/markzin/) | **Mar 2023**               |
-| **Keploy API Fellow**                        | [Keploy](https://www.linkedin.com/company/keploy/)                 | **Jan 2023 - Feb 2023**    |
-| **Fullstack Development Intern**             | [Symstech IT Consultancy and Services](https://www.linkedin.com/company/symstech/) | **Oct 2022 - Dec 2022**|
-| **Open Source Mentee**                       | [GDSC KGEC Summer of Code'22](https://www.linkedin.com/company/dsckgec/) | **Jul 2022 - Aug 2022**     |
+| **Software Development Intern**    | Futureblink | **Jan 2025 - Apr 2025** |
+| **Open Source Mentor**               | IEEE IGDTUW | **Nov 2024**     |
+| **Open Source Project Mentor**               | Girlscript Summer of Code | **Oct 2024**     |
+| **Fullstack Development Intern**             | Markzin Young Pvt Ltd | **Aug 2023 - Mar 2024**    |
+| **Freelance Developer**             | Markzin Young Pvt Ltd | **Mar 2023**               |
+| **Keploy API Fellow**                        | Keploy                 | **Jan 2023 - Feb 2023**    |
+| **Fullstack Development Intern**             | Symstech IT Consultancy and Services | **Oct 2022 - Dec 2022**|
+| **Open Source Mentee**                       | GDSC KGEC Summer of Code'22 | **Jul 2022 - Aug 2022**     |
 
 
 
